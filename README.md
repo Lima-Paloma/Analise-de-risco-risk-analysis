@@ -1,2 +1,2 @@
-# data-science-with-python
-Análise de dados usando a linguagem Python (pandas)
+# Análise de Risco - risk analysis
+
